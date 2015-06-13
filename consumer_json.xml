@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema>
+    <column comment="" default="" key="false" label="features"
+        length="0" nullable="true" originalDbColumnName="features"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="nonStandardFeatures" length="0" nullable="true"
+        originalDbColumnName="nonStandardFeatures" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="images" length="0"
+        nullable="true" originalDbColumnName="images" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="guaranteedSalesQuoteResponses" length="0" nullable="true"
+        originalDbColumnName="guaranteedSalesQuoteResponses" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsiteexcludeMot" length="0" nullable="true"
+        originalDbColumnName="consumerWebsiteexcludeMot" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsiteexcludeWarranty" length="0"
+        nullable="true"
+        originalDbColumnName="consumerWebsiteexcludeWarranty" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsiteexcludeTyreCondition" length="0"
+        nullable="true"
+        originalDbColumnName="consumerWebsiteexcludeTyreCondition"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsiteexcludeTax" length="0" nullable="true"
+        originalDbColumnName="consumerWebsiteexcludeTax" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsiteexcludeCloser" length="0" nullable="true"
+        originalDbColumnName="consumerWebsiteexcludeCloser" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsiteexcludeAutocheck" length="0"
+        nullable="true"
+        originalDbColumnName="consumerWebsiteexcludeAutocheck"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsiteexcludeMileage" length="0" nullable="true"
+        originalDbColumnName="consumerWebsiteexcludeMileage" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsiteexcludePreviousKeepers" length="0"
+        nullable="true"
+        originalDbColumnName="consumerWebsiteexcludePreviousKeepers"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsiteexcludeExteriorCondition" length="0"
+        nullable="true"
+        originalDbColumnName="consumerWebsiteexcludeExteriorCondition"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsiteexcludeInteriorDetails" length="0"
+        nullable="true"
+        originalDbColumnName="consumerWebsiteexcludeInteriorDetails"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsitenonContract" length="0" nullable="true"
+        originalDbColumnName="consumerWebsitenonContract" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsitemaxImages" length="0" nullable="true"
+        originalDbColumnName="consumerWebsitemaxImages" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsitevideoSlideshow" length="0" nullable="true"
+        originalDbColumnName="consumerWebsitevideoSlideshow" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsitemobilePremierStockListing" length="0"
+        nullable="true"
+        originalDbColumnName="consumerWebsitemobilePremierStockListing"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsitewebMobilePremiumStock" length="0"
+        nullable="true"
+        originalDbColumnName="consumerWebsitewebMobilePremiumStock"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsitedisplayThumbnails" length="0"
+        nullable="true"
+        originalDbColumnName="consumerWebsitedisplayThumbnails"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsitetraderClubMember" length="0"
+        nullable="true"
+        originalDbColumnName="consumerWebsitetraderClubMember"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsitewebsiteLinkAvailable" length="0"
+        nullable="true"
+        originalDbColumnName="consumerWebsitewebsiteLinkAvailable"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsitehideEmail" length="0" nullable="true"
+        originalDbColumnName="consumerWebsitehideEmail" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsiteadditionalInfo" length="0" nullable="true"
+        originalDbColumnName="consumerWebsiteadditionalInfo" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsiteareaCode" length="0" nullable="true"
+        originalDbColumnName="consumerWebsiteareaCode" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsiteinternationalCode" length="0"
+        nullable="true"
+        originalDbColumnName="consumerWebsiteinternationalCode"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsitelocalNumber" length="0" nullable="true"
+        originalDbColumnName="consumerWebsitelocalNumber" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsitetype" length="0" nullable="true"
+        originalDbColumnName="consumerWebsitetype" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsiteimages" length="0" nullable="true"
+        originalDbColumnName="consumerWebsiteimages" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsiteadvertText" length="0" nullable="true"
+        originalDbColumnName="consumerWebsiteadvertText" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsiteadvertType" length="0" nullable="true"
+        originalDbColumnName="consumerWebsiteadvertType" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsitebadAdvertReason" length="0"
+        nullable="true"
+        originalDbColumnName="consumerWebsitebadAdvertReason" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsitecurrencyCode" length="0" nullable="true"
+        originalDbColumnName="consumerWebsitecurrencyCode" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsitedealerName" length="0" nullable="true"
+        originalDbColumnName="consumerWebsitedealerName" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsitedescriptionText" length="0"
+        nullable="true"
+        originalDbColumnName="consumerWebsitedescriptionText" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsitedestination" length="0" nullable="true"
+        originalDbColumnName="consumerWebsitedestination" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsiteemailAddress" length="0" nullable="true"
+        originalDbColumnName="consumerWebsiteemailAddress" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsiteendDate" length="0" nullable="true"
+        originalDbColumnName="consumerWebsiteendDate" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsiteprice" length="0" nullable="true"
+        originalDbColumnName="consumerWebsiteprice" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsitepriceExtra" length="0" nullable="true"
+        originalDbColumnName="consumerWebsitepriceExtra" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsitepriceOnAskingIndicator" length="0"
+        nullable="true"
+        originalDbColumnName="consumerWebsitepriceOnAskingIndicator"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsitestartDate" length="0" nullable="true"
+        originalDbColumnName="consumerWebsitestartDate" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsitestatus" length="0" nullable="true"
+        originalDbColumnName="consumerWebsitestatus" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsitestrapLine" length="0" nullable="true"
+        originalDbColumnName="consumerWebsitestrapLine" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsiteautoCheckStatus" length="0"
+        nullable="true"
+        originalDbColumnName="consumerWebsiteautoCheckStatus" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsitebasicAdvertListing" length="0"
+        nullable="true"
+        originalDbColumnName="consumerWebsitebasicAdvertListing"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsitefeaturedListing" length="0"
+        nullable="true"
+        originalDbColumnName="consumerWebsitefeaturedListing" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="consumerWebsiteadvertised" length="0" nullable="true"
+        originalDbColumnName="consumerWebsiteadvertised" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="approvedScheme"
+        length="0" nullable="true" originalDbColumnName="approvedScheme"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="assets" length="0"
+        nullable="true" originalDbColumnName="assets" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="associatedStockId"
+        length="0" nullable="true"
+        originalDbColumnName="associatedStockId" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="attentionGrabber"
+        length="0" nullable="true"
+        originalDbColumnName="attentionGrabber" pattern="" precision="0"
+        talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="autoCheckResultsURI" length="0" nullable="true"
+        originalDbColumnName="autoCheckResultsURI" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="autocheckStatus"
+        length="0" nullable="true"
+        originalDbColumnName="autocheckStatus" pattern="" precision="0"
+        talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="axle" length="0"
+        nullable="true" originalDbColumnName="axle" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="bodyCondition"
+        length="0" nullable="true" originalDbColumnName="bodyCondition"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="bodyType"
+        length="0" nullable="true" originalDbColumnName="bodyType"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="bulkUpdateSystemAdvertPriceBlocked" length="0"
+        nullable="true"
+        originalDbColumnName="bulkUpdateSystemAdvertPriceBlocked"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="cabType" length="0"
+        nullable="true" originalDbColumnName="cabType" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="vehicleType"
+        length="0" nullable="true" originalDbColumnName="vehicleType"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="clientStatus"
+        length="0" nullable="true" originalDbColumnName="clientStatus"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="co2Emissions"
+        length="0" nullable="true" originalDbColumnName="co2Emissions"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="colour" length="0"
+        nullable="true" originalDbColumnName="colour" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="comingSoonExpiry"
+        length="0" nullable="true"
+        originalDbColumnName="comingSoonExpiry" pattern="" precision="0"
+        talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="condition"
+        length="0" nullable="true" originalDbColumnName="condition"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="mainPhoneNumberareaCode" length="0" nullable="true"
+        originalDbColumnName="mainPhoneNumberareaCode" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="mainPhoneNumberinternationalCode" length="0"
+        nullable="true"
+        originalDbColumnName="mainPhoneNumberinternationalCode"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="mainPhoneNumberlocalNumber" length="0" nullable="true"
+        originalDbColumnName="mainPhoneNumberlocalNumber" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="secondaryPhoneNumberareaCode" length="0" nullable="true"
+        originalDbColumnName="secondaryPhoneNumberareaCode" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="secondaryPhoneNumberinternationalCode" length="0"
+        nullable="true"
+        originalDbColumnName="secondaryPhoneNumberinternationalCode"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="secondaryPhoneNumberlocalNumber" length="0"
+        nullable="true"
+        originalDbColumnName="secondaryPhoneNumberlocalNumber"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="contactDetailsemailAddress" length="0" nullable="true"
+        originalDbColumnName="contactDetailsemailAddress" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="contactDetailshouseNameOrNumber" length="0"
+        nullable="true"
+        originalDbColumnName="contactDetailshouseNameOrNumber"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="contactDetailspostcode" length="0" nullable="true"
+        originalDbColumnName="contactDetailspostcode" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="creationSource"
+        length="0" nullable="true" originalDbColumnName="creationSource"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="dataFeedProvider"
+        length="0" nullable="true"
+        originalDbColumnName="dataFeedProvider" pattern="" precision="0"
+        talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="dateInStock"
+        length="0" nullable="true" originalDbColumnName="dateInStock"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="dateOfManufacture"
+        length="0" nullable="true"
+        originalDbColumnName="dateOfManufacture" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="dateOfRegistration"
+        length="0" nullable="true"
+        originalDbColumnName="dateOfRegistration" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="dateOnForecourt"
+        length="0" nullable="true"
+        originalDbColumnName="dateOnForecourt" pattern="" precision="0"
+        talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="dateSold"
+        length="0" nullable="true" originalDbColumnName="dateSold"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="daysInStock"
+        length="0" nullable="true" originalDbColumnName="daysInStock"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="dealerNotes"
+        length="0" nullable="true" originalDbColumnName="dealerNotes"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="dealerStockReference" length="0" nullable="true"
+        originalDbColumnName="dealerStockReference" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="deepLinkReference"
+        length="0" nullable="true"
+        originalDbColumnName="deepLinkReference" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="defaultPricecurrencyCode" length="0" nullable="true"
+        originalDbColumnName="defaultPricecurrencyCode" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="defaultPricevalue"
+        length="0" nullable="true"
+        originalDbColumnName="defaultPricevalue" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="defaultPricepriceExtra" length="0" nullable="true"
+        originalDbColumnName="defaultPricepriceExtra" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="deliveryPriceText"
+        length="0" nullable="true"
+        originalDbColumnName="deliveryPriceText" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="derivative"
+        length="0" nullable="true" originalDbColumnName="derivative"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="derivativeId"
+        length="0" nullable="true" originalDbColumnName="derivativeId"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="disposalMethod"
+        length="0" nullable="true" originalDbColumnName="disposalMethod"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="driverPosition"
+        length="0" nullable="true" originalDbColumnName="driverPosition"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="dueDate" length="0"
+        nullable="true" originalDbColumnName="dueDate" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="engineNumber"
+        length="0" nullable="true" originalDbColumnName="engineNumber"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="engineSize"
+        length="0" nullable="true" originalDbColumnName="engineSize"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="engineUnit"
+        length="0" nullable="true" originalDbColumnName="engineUnit"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="exDemo" length="0"
+        nullable="true" originalDbColumnName="exDemo" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="exteriorFinish"
+        length="0" nullable="true" originalDbColumnName="exteriorFinish"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="externalClientReference" length="0" nullable="true"
+        originalDbColumnName="externalClientReference" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="extrasSold"
+        length="0" nullable="true" originalDbColumnName="extrasSold"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="extrasValue"
+        length="0" nullable="true" originalDbColumnName="extrasValue"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="facelift"
+        length="0" nullable="true" originalDbColumnName="facelift"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="featuresUpgradeValue" length="0" nullable="true"
+        originalDbColumnName="featuresUpgradeValue" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="franchiseApproved"
+        length="0" nullable="true"
+        originalDbColumnName="franchiseApproved" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="freeformIntroduction" length="0" nullable="true"
+        originalDbColumnName="freeformIntroduction" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="fuel" length="0"
+        nullable="true" originalDbColumnName="fuel" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="interiorColour"
+        length="0" nullable="true" originalDbColumnName="interiorColour"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="interiorCondition"
+        length="0" nullable="true"
+        originalDbColumnName="interiorCondition" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="interiorMaterial"
+        length="0" nullable="true"
+        originalDbColumnName="interiorMaterial" pattern="" precision="0"
+        talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="keyInformation"
+        length="0" nullable="true" originalDbColumnName="keyInformation"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="lastServiceDate"
+        length="0" nullable="true"
+        originalDbColumnName="lastServiceDate" pattern="" precision="0"
+        talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="lastServiceMileage"
+        length="0" nullable="true"
+        originalDbColumnName="lastServiceMileage" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="lastStateTransitionedDate" length="0" nullable="true"
+        originalDbColumnName="lastStateTransitionedDate" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="lastUpdatedDate"
+        length="0" nullable="true"
+        originalDbColumnName="lastUpdatedDate" pattern="" precision="0"
+        talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="learner" length="0"
+        nullable="true" originalDbColumnName="learner" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="lifecycleState"
+        length="0" nullable="true" originalDbColumnName="lifecycleState"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="magFriendlyModel"
+        length="0" nullable="true"
+        originalDbColumnName="magFriendlyModel" pattern="" precision="0"
+        talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="make" length="0"
+        nullable="true" originalDbColumnName="make" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="manufacturedMonth"
+        length="0" nullable="true"
+        originalDbColumnName="manufacturedMonth" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="manufacturedYear"
+        length="0" nullable="true"
+        originalDbColumnName="manufacturedYear" pattern="" precision="0"
+        talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="manufacturerBodyStyle" length="0" nullable="true"
+        originalDbColumnName="manufacturerBodyStyle" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="manufacturerColour"
+        length="0" nullable="true"
+        originalDbColumnName="manufacturerColour" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="manufacturerColourGroup" length="0" nullable="true"
+        originalDbColumnName="manufacturerColourGroup" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="manufacturerFacelift" length="0" nullable="true"
+        originalDbColumnName="manufacturerFacelift" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="manufacturerMarque"
+        length="0" nullable="true"
+        originalDbColumnName="manufacturerMarque" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="manufacturerModel"
+        length="0" nullable="true"
+        originalDbColumnName="manufacturerModel" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="manufacturerSeries"
+        length="0" nullable="true"
+        originalDbColumnName="manufacturerSeries" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="manufacturerVariant" length="0" nullable="true"
+        originalDbColumnName="manufacturerVariant" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="manufacturerWarranty" length="0" nullable="true"
+        originalDbColumnName="manufacturerWarranty" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="maxPayloadValue"
+        length="0" nullable="true"
+        originalDbColumnName="maxPayloadValue" pattern="" precision="0"
+        talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="maxPayloadUnit"
+        length="0" nullable="true" originalDbColumnName="maxPayloadUnit"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="metallicPaint"
+        length="0" nullable="true" originalDbColumnName="metallicPaint"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="mileage" length="0"
+        nullable="true" originalDbColumnName="mileage" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="mileageUnit"
+        length="0" nullable="true" originalDbColumnName="mileageUnit"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="model" length="0"
+        nullable="true" originalDbColumnName="model" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="motDate" length="0"
+        nullable="true" originalDbColumnName="motDate" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="motInsurance"
+        length="0" nullable="true" originalDbColumnName="motInsurance"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="multimarqueId"
+        length="0" nullable="true" originalDbColumnName="multimarqueId"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="mvrisMakeCode"
+        length="0" nullable="true" originalDbColumnName="mvrisMakeCode"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="mvrisModelCode"
+        length="0" nullable="true" originalDbColumnName="mvrisModelCode"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="myReference"
+        length="0" nullable="true" originalDbColumnName="myReference"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="numberOfGears"
+        length="0" nullable="true" originalDbColumnName="numberOfGears"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="numberOfKeyFobs"
+        length="0" nullable="true"
+        originalDbColumnName="numberOfKeyFobs" pattern="" precision="0"
+        talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="numberOfKeys"
+        length="0" nullable="true" originalDbColumnName="numberOfKeys"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="offRoad" length="0"
+        nullable="true" originalDbColumnName="offRoad" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="origin" length="0"
+        nullable="true" originalDbColumnName="origin" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="otherVehicleText"
+        length="0" nullable="true"
+        originalDbColumnName="otherVehicleText" pattern="" precision="0"
+        talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="ownershipDetailstype" length="0" nullable="true"
+        originalDbColumnName="ownershipDetailstype" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="packageId"
+        length="0" nullable="true" originalDbColumnName="packageId"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="powerOutputValue"
+        length="0" nullable="true"
+        originalDbColumnName="powerOutputValue" pattern="" precision="0"
+        talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="powerOutputUnit"
+        length="0" nullable="true"
+        originalDbColumnName="powerOutputUnit" pattern="" precision="0"
+        talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="preparationCosts"
+        length="0" nullable="true"
+        originalDbColumnName="preparationCosts" pattern="" precision="0"
+        talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="previousOwners"
+        length="0" nullable="true" originalDbColumnName="previousOwners"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="previousRetailPrice" length="0" nullable="true"
+        originalDbColumnName="previousRetailPrice" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="publicReference"
+        length="0" nullable="true"
+        originalDbColumnName="publicReference" pattern="" precision="0"
+        talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="purchasePricecurrencyCode" length="0" nullable="true"
+        originalDbColumnName="purchasePricecurrencyCode" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="purchasePricevalue"
+        length="0" nullable="true"
+        originalDbColumnName="purchasePricevalue" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="recommendedPrice"
+        length="0" nullable="true"
+        originalDbColumnName="recommendedPrice" pattern="" precision="0"
+        talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="regCode" length="0"
+        nullable="true" originalDbColumnName="regCode" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="registration"
+        length="0" nullable="true" originalDbColumnName="registration"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="revisionNumber"
+        length="0" nullable="true" originalDbColumnName="revisionNumber"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="series" length="0"
+        nullable="true" originalDbColumnName="series" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="serviceHistory"
+        length="0" nullable="true" originalDbColumnName="serviceHistory"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="smallEngine"
+        length="0" nullable="true" originalDbColumnName="smallEngine"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="soldPrice"
+        length="0" nullable="true" originalDbColumnName="soldPrice"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="sourceSystemId"
+        length="0" nullable="true" originalDbColumnName="sourceSystemId"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="standardBodyType"
+        length="0" nullable="true"
+        originalDbColumnName="standardBodyType" pattern="" precision="0"
+        talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="standardColour"
+        length="0" nullable="true" originalDbColumnName="standardColour"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="standardDerivative"
+        length="0" nullable="true"
+        originalDbColumnName="standardDerivative" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="standardEngineSize"
+        length="0" nullable="true"
+        originalDbColumnName="standardEngineSize" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="standardFuel"
+        length="0" nullable="true" originalDbColumnName="standardFuel"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="standardMake"
+        length="0" nullable="true" originalDbColumnName="standardMake"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="standardModel"
+        length="0" nullable="true" originalDbColumnName="standardModel"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="standardTax"
+        length="0" nullable="true" originalDbColumnName="standardTax"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="status" length="0"
+        nullable="true" originalDbColumnName="status" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="stockInValuecurrencyCode" length="0" nullable="true"
+        originalDbColumnName="stockInValuecurrencyCode" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="stockInValuevalue"
+        length="0" nullable="true"
+        originalDbColumnName="stockInValuevalue" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="stockSourceBranding" length="0" nullable="true"
+        originalDbColumnName="stockSourceBranding" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="stockSourceChannel"
+        length="0" nullable="true"
+        originalDbColumnName="stockSourceChannel" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="taxBand" length="0"
+        nullable="true" originalDbColumnName="taxBand" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="taxExpiryDate"
+        length="0" nullable="true" originalDbColumnName="taxExpiryDate"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="temporaryStock"
+        length="0" nullable="true" originalDbColumnName="temporaryStock"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="trim" length="0"
+        nullable="true" originalDbColumnName="trim" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="twelveMonthsMotInc"
+        length="0" nullable="true"
+        originalDbColumnName="twelveMonthsMotInc" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="tyreConditionOverall" length="0" nullable="true"
+        originalDbColumnName="tyreConditionOverall" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="unregistered"
+        length="0" nullable="true" originalDbColumnName="unregistered"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="usedBeforeUKRegistrationDate" length="0" nullable="true"
+        originalDbColumnName="usedBeforeUKRegistrationDate" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="v5Status"
+        length="0" nullable="true" originalDbColumnName="v5Status"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="variant" length="0"
+        nullable="true" originalDbColumnName="variant" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="vatStatus"
+        length="0" nullable="true" originalDbColumnName="vatStatus"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="vehicleCondition"
+        length="0" nullable="true"
+        originalDbColumnName="vehicleCondition" pattern="" precision="0"
+        talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="versionNumber"
+        length="0" nullable="true" originalDbColumnName="versionNumber"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="videoUrl"
+        length="0" nullable="true" originalDbColumnName="videoUrl"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="vin" length="0"
+        nullable="true" originalDbColumnName="vin" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="vpcClear"
+        length="0" nullable="true" originalDbColumnName="vpcClear"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="warrantyMonthsOnPurchase" length="0" nullable="true"
+        originalDbColumnName="warrantyMonthsOnPurchase" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="wheelBaseType"
+        length="0" nullable="true" originalDbColumnName="wheelBaseType"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="writeoffCategory"
+        length="0" nullable="true"
+        originalDbColumnName="writeoffCategory" pattern="" precision="0"
+        talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="doors" length="0"
+        nullable="true" originalDbColumnName="doors" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="driveSystem"
+        length="0" nullable="true" originalDbColumnName="driveSystem"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="insuranceGroup"
+        length="0" nullable="true" originalDbColumnName="insuranceGroup"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="numberOfSeats"
+        length="0" nullable="true" originalDbColumnName="numberOfSeats"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="standardTransmission" length="0" nullable="true"
+        originalDbColumnName="standardTransmission" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="transmission"
+        length="0" nullable="true" originalDbColumnName="transmission"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="customerId"
+        length="0" nullable="true" originalDbColumnName="customerId"
+        pattern="" precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="advertiserSource"
+        length="0" nullable="true"
+        originalDbColumnName="advertiserSource" pattern="" precision="0"
+        talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="forecourtPricecurrencyCode" length="0" nullable="true"
+        originalDbColumnName="forecourtPricecurrencyCode" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="forecourtPricevalue" length="0" nullable="true"
+        originalDbColumnName="forecourtPricevalue" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="forecourtPricepriceExtra" length="0" nullable="true"
+        originalDbColumnName="forecourtPricepriceExtra" pattern=""
+        precision="0" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="numberOfBerths"
+        length="-1" nullable="true"
+        originalDbColumnName="numberOfBerths" pattern="" precision="-1"
+        talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="grossTowingWeight"
+        length="-1" nullable="true"
+        originalDbColumnName="grossTowingWeight" pattern=""
+        precision="-1" talendType="id_String" type=""/>
+    <column comment="" default="" key="false"
+        label="grossTowingWeightUnit" length="-1" nullable="true"
+        originalDbColumnName="grossTowingWeightUnit" pattern=""
+        precision="-1" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="hours" length="-1"
+        nullable="true" originalDbColumnName="hours" pattern=""
+        precision="-1" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="style" length="-1"
+        nullable="true" originalDbColumnName="style" pattern=""
+        precision="-1" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="subStyle"
+        length="-1" nullable="true" originalDbColumnName="subStyle"
+        pattern="" precision="-1" talendType="id_String" type=""/>
+</schema>
